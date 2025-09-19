@@ -1,0 +1,1 @@
+{"name": "70-the-challenge-is-to-build-a-po-firebase-003133", "spec": {"port": 8000, "containers": [{"image": "", "name": "70-the-challenge-is-to-build-a-po-firebase-003133", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
